@@ -1,4 +1,4 @@
-# CH0-team0
+# CH0-team-0
 
 Team description goes here.
 
