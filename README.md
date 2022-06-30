@@ -1,10 +1,6 @@
 # CH0-team0
-Sample Project Initial Setup - (Cohort 0, Team 0)
 
-
-# UpSkill Internship Group 3 - Easybank landing page solution
-
-This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN).
+Team description goes here.
 
 
 ## Welcome! 👋
@@ -26,7 +22,7 @@ Thanks for checking out our Project.
 
 ## Overview
 
-General overview of project
+General overview/description of project
 
 
 ### The challenge
